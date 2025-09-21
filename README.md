@@ -1,6 +1,6 @@
 # HalalChain-Certify-Backend
 
-
+```bash
 halalchain-backend/
 ├── 📁 src/
 │   ├── 📁 config/                 # Environment variables and configuration
@@ -71,3 +71,5 @@ halalchain-backend/
 ├── tsconfig.json
 ├── docker-compose.yml             # For local Redis, DB, etc.
 └── Dockerfile
+
+```bash
