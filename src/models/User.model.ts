@@ -1,0 +1,5 @@
+type User = {
+
+}
+
+export { User }
