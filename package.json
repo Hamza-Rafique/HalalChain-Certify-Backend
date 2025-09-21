@@ -1,0 +1,14 @@
+{
+  "name": "halalchain-certify-backend",
+  "version": "1.0.0",
+  "description": "AI-Powered Halal Certification & Supply Chain Tracking (Web3-Based)",
+  "main": "src/app.ts",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamza Rafique",
+  "license": "ISC"
+}
