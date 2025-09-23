@@ -1,9 +1,11 @@
-import { User } from '../../models/User.model';
+import { IUser } from '../../types/global.types';
 
 declare global {
   namespace Express {
     interface Request {
-      user?: User; // Our authenticated user object added by auth middleware
+      user?: IUser;
     }
   }
 }
+
+export {};
